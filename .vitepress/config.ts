@@ -6,6 +6,7 @@ export default defineConfig({
   description: "my tech notes",
   lastUpdated: true,
   cleanUrls: true,
+  base: '/Notes/',
   themeConfig: {
     nav: [
       {
